@@ -1,0 +1,26 @@
+{
+    "101": {
+        "id": "101",
+        "nombre": "Arroz",
+        "cantidad": 25,
+        "precio": 1.25
+    },
+    "102": {
+        "id": "102",
+        "nombre": "Azucar",
+        "cantidad": 5,
+        "precio": 0.9
+    },
+    "103": {
+        "id": "103",
+        "nombre": "Harina",
+        "cantidad": 25,
+        "precio": 2.25
+    },
+    "104": {
+        "id": "104",
+        "nombre": "Sal",
+        "cantidad": 10,
+        "precio": 2.55
+    }
+}
